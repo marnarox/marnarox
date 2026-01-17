@@ -48,6 +48,8 @@ I hold a **Bachelor's degree in Web Design** and I’m always looking to improve
 
 
 ---
+![snake gif](https://github.com/marnaroxwd/marnaroxwd/blob/output/github-snake-dark.svg)
+---
 
 ## 🎮 A bit about me
 
