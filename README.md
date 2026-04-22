@@ -48,7 +48,7 @@ I hold a **Bachelor's degree in Web Design** and I’m always looking to improve
 
 ## 🐍 GitHub Snake Game
 
-![snake gif](https://github.com/marnaroxwd/marnaroxwd/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/marnarox/marnarox/blob/output/github-snake-dark.svg)
 
 ---
 
