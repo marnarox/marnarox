@@ -36,6 +36,7 @@ I hold a **Bachelor's degree in Web Design** and I’m always looking to improve
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?logo=scrumalliance&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0277BD)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
